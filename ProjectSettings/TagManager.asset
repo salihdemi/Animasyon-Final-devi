@@ -4,12 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - HeadArea
+  - baglanti
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Head
+  - 
   - Water
   - UI
   - 
