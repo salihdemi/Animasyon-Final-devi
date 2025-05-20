@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Oda.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Orman.unity
+    guid: 40d56e803e047f14b8aabf76ca6f41db
+  - enabled: 1
+    path: "Assets/Scenes/YerAlt\u0131.unity"
+    guid: 06fa3392d65193942bb9b0943d9636e0
   m_configObjects: {}
